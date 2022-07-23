@@ -40,10 +40,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="go" **alt="go" width="40" height="40"/>&nbsp;  
 </div>
 
-
+</br>
 ![MartinezAvellan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinezAvellan&theme=default&show_icons=true)
-
+</br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MartinezAvellan&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-
+</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinezAvellan&layout=compact&theme=default)](https://github.com/MartinezAvellan/github-readme-stats)
 
