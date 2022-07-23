@@ -44,5 +44,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?MartinezAvellan&layout=compact&theme=vision-friendly-dark)](https://github.com/MartinezAvellan/github-readme-stats)
 
 
-
+![MartinezAvellan GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinezAvellan&theme=dark&show_icons=true)
 
