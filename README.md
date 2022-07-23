@@ -12,7 +12,7 @@
   </a>
 </div>
 <div id="visits" align="center">
-  <img src="https://komarev.com/ghpvc/?username=MArtinezAvellan&style=flat-square&color=blue" alt="" />
+  <img src="https://komarev.com/ghpvc/?username=MartinezAvellan&style=flat-square&color=blue" alt="" />
 </div>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;  
@@ -34,3 +34,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="html5" **alt="html5" width="40" height="40"/>&nbsp;   
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="go" **alt="go" width="40" height="40"/>&nbsp;  
 </div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MartinezAvellan&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?MartinezAvellan)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?MartinezAvellan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
