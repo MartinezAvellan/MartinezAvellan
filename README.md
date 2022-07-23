@@ -73,9 +73,14 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Notepad++](	https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 
+## 
+<div id="stats" align="center">
 
-![MartinezAvellan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinezAvellan&theme=default&show_icons=true)
+![MartinezAvellan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinezAvellan&theme=default&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MartinezAvellan&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MartinezAvellan&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+</div>
+<div id="langs" align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinezAvellan&layout=compact&theme=default)](https://github.com/MartinezAvellan/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinezAvellan&layout=compact&theme=default)](https://github.com/MartinezAvellan/github-readme-stats)
+  
+</div>
