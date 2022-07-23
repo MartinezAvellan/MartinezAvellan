@@ -1,5 +1,3 @@
-@ -1,83 +1,2 @@
-
 <div id="header" align="center">
   <img src="https://i.ytimg.com/vi/_ITiwPMUzho/maxresdefault.jpg" width="50%"/>
 </div>
