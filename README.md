@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-
+</br>
 <div id="badges" align="center">
   <a href="https://br.linkedin.com/in/martinezavellan">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -11,10 +11,11 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+</br>
 <div id="visits" align="center">
   <img src="https://komarev.com/ghpvc/?username=MartinezAvellan&style=flat-square&color=blue" alt="" />
 </div>
-<\br>
+</br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -35,11 +36,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="html5" **alt="html5" width="40" height="40"/>&nbsp;   
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="go" **alt="go" width="40" height="40"/>&nbsp;  
 </div>
-<\br>
+</br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MartinezAvellan&theme=dark&background=000000)](https://git.io/streak-stats)
-<\br>
+</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?MartinezAvellan)](https://github.com/MartinezAvellan/github-readme-stats)
-<\br>
+</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?MartinezAvellan&layout=compact&theme=vision-friendly-dark)](https://github.com/MartinezAvellan/github-readme-stats)
 
 
