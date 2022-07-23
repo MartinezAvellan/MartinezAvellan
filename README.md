@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://preview.redd.it/mw4y58i658981.gif?width=750&auto=webp&s=d1f8893494ed1d8e9f731f4b7e7915ca7e4039dc" width="50%"/>
+  <img src="https://i.ytimg.com/vi/_ITiwPMUzho/maxresdefault.jpg" width="50%"/>
 </div>
 </br>
 <div id="badges" align="center">
