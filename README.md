@@ -37,11 +37,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="go" **alt="go" width="40" height="40"/>&nbsp;  
 </div>
 </br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MartinezAvellan&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?username=MartinezAvellan&theme=dark&background=000000)](https://git.io/streak-stats)
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinezAvellan)](https://github.com/MartinezAvellan/github-readme-stats)
-</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinezAvellan&layout=compact&theme=vision-friendly-dark)](https://github.com/MartinezAvellan/github-readme-stats)
 </br>
 ![MartinezAvellan GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinezAvellan&theme=dark&show_icons=true)
 </br>
