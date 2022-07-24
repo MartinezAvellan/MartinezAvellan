@@ -57,6 +57,7 @@
 ![Amazon EKS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+EKS&color=222222&logo=Amazon+EKS&logoColor=FF9900&label=)
 ![Amazon RDS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+RDS&color=527FFF&logo=Amazon+RDS&logoColor=FFFFFF&label=)
 ![Amazon S3](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+S3&color=569A31&logo=Amazon+S3&logoColor=FFFFFF&label=)
+![Amazon Lambda](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+Lambda&color=569A31&logo=AWS+Lambda&logoColor=FFFFFF&label=)
 ![Amazon SQS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+SQS&color=FF4F8B&logo=Amazon+SQS&logoColor=FFFFFF&label=)
 ![Amazon CloudFormation](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+CloudFormation&color=222222&logo=amazon-aws&logoColor=FF9900&label=)
 
