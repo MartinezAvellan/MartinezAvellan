@@ -13,10 +13,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>  
 </div>
-</br>
-<div id="visit" align="center">
-  <img src="https://komarev.com/ghpvc/?username=MartinezAvellan&style=flat-square&color=blue" alt="" />
-</div>
+
 
 ## front-end
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
