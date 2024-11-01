@@ -77,6 +77,8 @@
 
 </div>
 <div id="langs" align="center">
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinezAvellan&layout=compact&theme=default)](https://github.com/MartinezAvellan/github-readme-stats)
+  
 </div>
 
