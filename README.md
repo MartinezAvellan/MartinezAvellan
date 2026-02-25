@@ -10,15 +10,11 @@
 
 <div id="stats" align="center">
 
-![MartinezAvellan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinezAvellan&theme=default&show_icons=true)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MartinezAvellan&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 </div>
-<div id="langs" align="center">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinezAvellan&layout=compact&theme=default)](https://github.com/MartinezAvellan/github-readme-stats)
-  
-</div>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MartinezAvellan/MartinezAvellan/output/github-snake-dark.svg" />
